@@ -1,0 +1,1 @@
+(function loadElements() {let elements = document.querySelectorAll("nav, footer");for (const element of elements) {element.style.display = "none";}})();
